@@ -13,9 +13,11 @@ h1 {
 }
 
 hr {
+  margin: 20px auto;
   border-color: #f05f44;
   border-width: 3px;
   max-width: 65px;
+  opacity: 1;
 }
 
 .buffer {
