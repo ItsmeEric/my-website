@@ -1,1 +1,1 @@
-# my-website
+# Simple one-page website
